@@ -15,4 +15,4 @@
   <img align="center" alt="R" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
 </div><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasconcelos-dev&layout=compact&theme=github_dark)](https://github.com/vasconcelos-dev/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasconcelos-dev&layout=compact&theme=github_dark)](https://github.com/vasconcelos-dev/github-readme-stats) -->
