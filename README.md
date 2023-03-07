@@ -5,7 +5,9 @@
 <!--   <img align="center" alt="AWS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"> -->
 <!--   <img align="center" alt="Bash" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"> -->
 <!--   <img align="center" alt="C++" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> -->
+  <img align="center" alt="C#" height="45" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 <!--   <img align="center" alt="Docker" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> -->
+  <img align="center" alt=".NET Core" height="45" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
 <!--   <img align="center" alt="GraphQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"> -->
   <img align="center" alt="HTML" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <!--   <img align="center" alt="Jenkins" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"> -->
