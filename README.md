@@ -9,7 +9,6 @@
 <!--   <img align="center" alt="Docker" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> -->
   <img align="center" alt=".NET Core" height="45" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
 <!--   <img align="center" alt="GraphQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"> -->
-  <img align="center" alt="HTML" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <!--   <img align="center" alt="Jenkins" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"> -->
   <img align="center" alt="Jupyter" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
 <!--   <img align="center" alt="Kafka" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"> -->
